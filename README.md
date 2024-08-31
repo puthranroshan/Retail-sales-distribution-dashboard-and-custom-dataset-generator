@@ -27,3 +27,9 @@ Enhanced Decision Making: By visualizing sales patterns and providing accurate p
 Error Minimization: Displaying key error metrics allows for continuous monitoring and improvement of the sales forecasting model, ensuring high levels of accuracy and reliability.
 Scalability: The model's ability to generate extended sales histories makes it adaptable for future growth and varying data scales.
 # Scrren Shots
+
+<img src="https://github.com/puthranroshan/Retail-sales-distribution-dashboard-and-custom-dataset-generator/blob/main/Screenshot%202024-07-31%20232127.png" width="100%"></img>
+
+# Forecast Accuracy of each item 
+<img src="https://github.com/puthranroshan/Supplychain-Distribution-centers-Data-Analysis/blob/main/Screenshot%202024-08-01%20201933.png" width="100%"></img>
+
