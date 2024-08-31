@@ -3,6 +3,9 @@ This project features a comprehensive Tableau Dashboard designed to visualize th
 
 # Tableau Dashboard
 Interactive Sales Patterns: Users can click on any distribution center within the dashboard to view detailed sales patterns specific to that DC.
+s
+
+<img src="https://github.com/puthranroshan/Retail-sales-distribution-dashboard-and-custom-dataset-generator/blob/main/Screenshot%202024-07-31%20232127.png" width="100%"></img>
 
 Error Metrics Display: For each sales pattern analyzed, the dashboard showcases the most relevant error metrics, enabling users to assess the accuracy and reliability of the sales data.
 # Predictive Sales Modeling
@@ -26,9 +29,7 @@ Enhanced Decision Making: By visualizing sales patterns and providing accurate p
 
 Error Minimization: Displaying key error metrics allows for continuous monitoring and improvement of the sales forecasting model, ensuring high levels of accuracy and reliability.
 Scalability: The model's ability to generate extended sales histories makes it adaptable for future growth and varying data scales.
-# Scrren Shots
-
-<img src="https://github.com/puthranroshan/Retail-sales-distribution-dashboard-and-custom-dataset-generator/blob/main/Screenshot%202024-07-31%20232127.png" width="100%"></img>
+# Scrren Shot
 
 # Forecast Accuracy of each item 
 <img src="https://github.com/puthranroshan/Supplychain-Distribution-centers-Data-Analysis/blob/main/Screenshot%202024-08-01%20201933.png" width="100%"></img>
